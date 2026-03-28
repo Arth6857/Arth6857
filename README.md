@@ -19,6 +19,6 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
-![](https://text-to-image-generator-skps.onrender.com)
+![](https://github-contributor-stats.vercel.app/api?username=Arth6857 &limit=3&theme=shadow_green&combine_all_yearly_contributions=true)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
